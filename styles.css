@@ -1,0 +1,50 @@
+/* Navigation Bar */
+.bg-body-tertiary {
+    background-color: #5f249f !important;
+}
+.navbar-items {
+    font-family: 'Inter', sans-serif;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Libre Franklin', sans-serif;
+    font-family: 'PT Serif', serif;
+    color: white !important;
+}
+.navbar-brand {
+    font-weight: bold;
+}
+
+/* Quote section */
+.text-bg-dark {
+    background-color: #5f249f !important
+}
+.fst-italic {
+    font-style: normal !important;
+    font-weight: 350;
+    font-size: 2rem;
+}
+.better {
+    color: #a3a3c2;
+}
+
+/* Acquiring TNT section */
+.text-body-emphasis {
+    font-family: 'Inter', sans-serif;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Libre Franklin', sans-serif;
+    font-family: 'PT Serif', serif;
+}
+.lead {
+    font-weight: 350;
+}
+
+/* Account Infrastructure */
+
+
+/* Footer */
+.footer-items {
+    font-family: 'Inter', sans-serif;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Libre Franklin', sans-serif;
+    font-family: 'PT Serif', serif;
+    font-weight: 200;
+}
