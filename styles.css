@@ -1,0 +1,92 @@
+.heading {
+    font-family: 'Inter', sans-serif;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Libre Franklin', sans-serif;
+    font-family: 'PT Serif', serif;
+    font-weight: bold;
+    font-size: 2rem;
+}
+/* Navigation Bar */
+.bg-body-tertiary {
+    background-color: #5f249f !important;
+}
+.navbar-items {
+    font-family: 'Inter', sans-serif;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Libre Franklin', sans-serif;
+    font-family: 'PT Serif', serif;
+    color: white !important;
+}
+.navbar-brand {
+    font-weight: bold;
+}
+
+/* Quote section */
+.gradient-background {
+    background: linear-gradient(300deg, #5f249f, #b478ed, #ef8172);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+}
+  
+@keyframes gradient-animation {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+}
+
+/* Acquiring TNT section */
+.text-body-emphasis {
+    font-family: 'Inter', sans-serif;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Libre Franklin', sans-serif;
+    font-family: 'PT Serif', serif;
+}
+.lead {
+    font-weight: 350;
+}
+
+/* Account Infrastructure */
+.card {
+    resize: both;
+    height: 300px;
+    width: 23%;
+}
+.card-text {
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+}
+/* Highlighted Success Stories */
+.carousel-item{
+    padding: 7% 15%;
+}
+.carousel-inner {
+    margin-bottom: 80px;
+}
+#carouselExampleControls{
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    background-color: #ebd6f5;
+}
+.testimonial-text{
+    font-size: 2.5rem;
+}
+.testimonial-image{
+    height: 200px;
+    width: 250px;
+    border-radius: 50%;
+    margin: 20px;
+}
+/* Footer */
+.footer-items {
+    font-family: 'Inter', sans-serif;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Libre Franklin', sans-serif;
+    font-family: 'PT Serif', serif;
+    font-weight: 200;
+}
